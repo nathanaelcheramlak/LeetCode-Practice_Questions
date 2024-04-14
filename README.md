@@ -1,5 +1,7 @@
-# This is my private repo
-## I will solve leetcode problems.
+# Learning DSA by Solving LeetCode
+* This is my journey of griding leetcode problems.
 
-By Nathanael Cheramlak
-Feb 26, 2024
+* Default Language: Python
+
+By Nathanael Cheramlak<br>
+Started on Feb 26, 2024
