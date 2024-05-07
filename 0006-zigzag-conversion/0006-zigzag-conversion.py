@@ -10,7 +10,7 @@ class Solution(object):
         if numRows == 1 or numRows >= len(s):
             return s
 
-        idx, d = 0, 1
+        idx = 0
         rows = [[] for _ in range(numRows)]
 
         for char in s:
