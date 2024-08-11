@@ -17,8 +17,7 @@ class Solution(object):
             if diff <= 0 and peak_counter == 0:
                 peak_counter += 1
                 is_increasing = False
-            if diff <= 0 and is_increasing:
+            if (diff <= 0 and is_increasing) or (diff >= 0 and not is_increasing):
                 return False
-            if diff >= 0 and not is_increasing:
-                return False
+
         return True and peak_counter == 1
