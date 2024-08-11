@@ -5,17 +5,20 @@ class Solution(object):
         :type target: int
         :rtype: bool
         """
-        for row in matrix:
-            if target <= row[-1] and target >= row[0]:
-                left, right = 0, len(row) - 1
-                while right >= left:
-                    mid = (right + left) // 2
-                    if target > row[mid]:
-                        left = mid + 1
-                    elif target < row[mid]:
-                        right = mid - 1
-                    else:
-                        return True
-                    
+        row, col = len(matrix), len(matrix[0])
+        left, right = 0, row * col - 1
+        
+        while right >= left:
+            mid = (right + left) // 2
+            r, c = mid // col, mid % col
+            mid_2d = matrix[r][c]
+            
+            if mid_2d > target:
+                right = mid - 1
+            elif mid_2d < target:
+                left = mid + 1
+            else:
+                return True
         return False
+        
                 
