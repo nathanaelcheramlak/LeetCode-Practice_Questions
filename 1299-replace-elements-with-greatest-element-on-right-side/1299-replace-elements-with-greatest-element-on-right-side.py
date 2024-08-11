@@ -9,5 +9,7 @@ class Solution(object):
             current = arr[i]
             arr[i] = max_element
             
-            max_element = max(current, max_element)
+            if current > max_element:
+                max_element = current
+                
         return arr
