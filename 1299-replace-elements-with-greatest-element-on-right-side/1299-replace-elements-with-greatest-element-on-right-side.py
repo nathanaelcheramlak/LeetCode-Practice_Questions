@@ -4,16 +4,10 @@ class Solution(object):
         :type arr: List[int]
         :rtype: List[int]
         """
-        i = len(arr) - 1
-        maxElement = -1
-        result = [0 for _ in range(len(arr))]
-
-        while i >= 0:
-
-            if arr[i] >= maxElement:
-                result[i] = maxElement
-                maxElement = arr[i]
-            else:
-                result[i] = maxElement
-            i -= 1
-        return result
+        max_element = -1
+        for i in range(len(arr)-1, -1, -1):
+            current = arr[i]
+            arr[i] = max_element
+            
+            max_element = max(current, max_element)
+        return arr
