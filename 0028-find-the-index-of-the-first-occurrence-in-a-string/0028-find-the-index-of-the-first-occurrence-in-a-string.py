@@ -14,7 +14,7 @@ class Solution(object):
         l = len(needle)
 
         for i in range(len(haystack) - len(needle) + 1):
-            if haystack[i: l+i] == needle[0: l]:
+            if haystack[i: l+i] == needle:
                 return i
         return -1
         return -1
