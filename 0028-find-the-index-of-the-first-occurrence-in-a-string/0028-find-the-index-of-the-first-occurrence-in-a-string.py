@@ -17,4 +17,3 @@ class Solution(object):
             if haystack[i: l+i] == needle:
                 return i
         return -1
-        return -1
