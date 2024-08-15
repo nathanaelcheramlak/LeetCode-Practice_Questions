@@ -5,16 +5,16 @@ class Solution(object):
         :type needle: str
         :rtype: int
         """
+        if len(needle) == 0:
+            return 0
+
         if len(needle) > len(haystack):
             return -1
+        
+        l = len(needle)
 
         for i in range(len(haystack) - len(needle) + 1):
-            if needle[0] == haystack[i]:
-                is_found = True
-                for j in range(1, len(needle)):
-                    if needle[j] != haystack[i+j]:
-                        is_found = False
-                        break
-                if is_found:
-                    return i
+            if haystack[i: l+i] == needle[0: l]:
+                return i
+        return -1
         return -1
