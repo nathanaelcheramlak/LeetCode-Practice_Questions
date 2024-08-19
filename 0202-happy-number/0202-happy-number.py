@@ -4,12 +4,12 @@ class Solution(object):
         :type n: int
         :rtype: bool
         """
-        is_seen = dict()
+        is_seen = set()
         while True:
             if n == 1:
                 return True
             if n not in is_seen:
-                is_seen[n] = 0
+                is_seen.add(n)
                 digits = str(n)
                 n = 0
                 for digit in digits:
