@@ -18,4 +18,6 @@ class Solution(object):
             cookie_index += 1
         
         return content_children
+    # Time Complexity: O(nlog(n) + mlog(m)) -- Due to Sorting
+    # Space Complexity: O(m+n) -- Due to python .sort() method
             
