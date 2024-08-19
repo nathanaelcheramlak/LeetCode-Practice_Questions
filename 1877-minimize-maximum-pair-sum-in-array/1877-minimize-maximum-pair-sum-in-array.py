@@ -16,3 +16,5 @@ class Solution(object):
             right -= 1
         
         return max_pair
+    # Time Complexity: O(nlog(n))
+    # Space Complexity: O(n) -- Due to sorting
