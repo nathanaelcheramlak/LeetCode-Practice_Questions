@@ -20,4 +20,5 @@ class Solution(object):
                 right -= 1
         
         return "".join(s)
-            
+    # Time Complexity: O(n)
+    # Space Complexity: O(n)
