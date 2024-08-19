@@ -8,16 +8,14 @@ class Solution(object):
 
         g.sort()
         s.sort()
-        gp = 0
-        sp = 0
-        count = 0
-        while gp < len(g) and sp < len(s):
-            if g[gp] > s[sp]:
-                sp += 1
-            else:
-                gp += 1
-                sp += 1
-                count += 1
+        content_children = 0
+        cookie_index = 0
+
+        while content_children < len(g) and cookie_index < len(s):
+            if g[content_children] <= s[cookie_index]:
+                content_children += 1
+
+            cookie_index += 1
         
-        return count
+        return content_children
             
