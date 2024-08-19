@@ -12,4 +12,5 @@ class Solution(object):
                 i += 1
             i += 1
             
-        
+        # Time Complexity: O(n^2) due to insert
+        # Space Complexity: O(1)
