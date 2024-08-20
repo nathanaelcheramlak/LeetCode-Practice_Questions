@@ -24,4 +24,5 @@ class Solution(object):
                 left += 1
         
         return minimum
-            
+    # Time Complexity: O(n)
+    # Space Complexity: O(1)
