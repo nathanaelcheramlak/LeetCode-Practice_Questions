@@ -20,5 +20,7 @@ class Solution(object):
 
         # Return the length of the remaining substring
         return right - left + 1
-
+    
+    # Time Complexity: O(n)
+    # Space Complexity: O(1)
 
