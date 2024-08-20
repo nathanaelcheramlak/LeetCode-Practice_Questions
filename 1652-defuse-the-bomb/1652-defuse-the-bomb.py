@@ -21,3 +21,5 @@ class Solution(object):
                     total += code[(i - item) % N]
                 decrypted[i] = total
         return decrypted
+    # Time Complexity: O(n*abs(k))
+    # Space Complexity: O(n)
