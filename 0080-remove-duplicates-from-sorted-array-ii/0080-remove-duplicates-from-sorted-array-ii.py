@@ -18,5 +18,5 @@ class Solution(object):
             if count > 2:
                 nums.pop(n)
                 l -= 1
-                continue
-            n += 1
+            else: # Since the list shrinks we don't increment n
+                n += 1
