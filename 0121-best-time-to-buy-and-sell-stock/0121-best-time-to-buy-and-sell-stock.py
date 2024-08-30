@@ -15,3 +15,6 @@ class Solution(object):
                 max_profit = max(max_profit, profit)
                 
         return max_profit
+    
+        # Time Complexity: O(n)
+        # Space Complexity: O(1)
