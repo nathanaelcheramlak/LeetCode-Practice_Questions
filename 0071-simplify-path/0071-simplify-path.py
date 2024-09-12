@@ -6,16 +6,13 @@ class Solution(object):
         """
         path_lst = path.split('/')
         stack = []
-        i = 0
-        while i < len(path_lst):
-            if not path_lst[i] or path_lst[i] == '.': # Handles the case for consecutive slashes ( /// )
-                path_lst.pop(i)
-                continue
-            elif path_lst[i] == '..':
-                if stack:
-                    stack.pop()
-            else:
-                stack.append(path_lst[i])
-            i += 1
+
+        for i in range(len(path_lst)):
+            if path_lst[i] and path_lst[i] != '.':
+                if path_lst[i] == '..':
+                    if stack:
+                        stack.pop()
+                else:
+                    stack.append(path_lst[i])
 
         return '/' + '/'.join(stack)
