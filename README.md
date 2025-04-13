@@ -24,11 +24,13 @@ Started on Feb 26, 2024
 | ------- |
 | [0547-number-of-provinces](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0547-number-of-provinces) |
 | [0690-employee-importance](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0690-employee-importance) |
+| [0744-network-delay-time](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0744-network-delay-time) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0547-number-of-provinces) |
 | [0690-employee-importance](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0690-employee-importance) |
+| [0744-network-delay-time](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0744-network-delay-time) |
 ## Union Find
 |  |
 | ------- |
@@ -37,4 +39,13 @@ Started on Feb 26, 2024
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0744-network-delay-time) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0744-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
