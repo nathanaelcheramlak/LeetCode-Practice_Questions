@@ -10,10 +10,12 @@ Started on Feb 26, 2024
 ## Array
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0149-max-points-on-a-line) |
 | [0690-employee-importance](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0690-employee-importance) |
 ## Hash Table
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0149-max-points-on-a-line) |
 | [0690-employee-importance](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0690-employee-importance) |
 ## Tree
 |  |
@@ -48,4 +50,12 @@ Started on Feb 26, 2024
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0744-network-delay-time) |
+## Math
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0149-max-points-on-a-line) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
