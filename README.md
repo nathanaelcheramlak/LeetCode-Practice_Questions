@@ -11,6 +11,7 @@ Started on Feb 26, 2024
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0149-max-points-on-a-line) |
+| [0240-search-a-2d-matrix-ii](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0690-employee-importance](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0690-employee-importance) |
 ## Hash Table
 |  |
@@ -71,4 +72,16 @@ Started on Feb 26, 2024
 |  |
 | ------- |
 | [1362-airplane-seat-assignment-probability](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/1362-airplane-seat-assignment-probability) |
+## Binary Search
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0240-search-a-2d-matrix-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0240-search-a-2d-matrix-ii) |
+## Matrix
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
