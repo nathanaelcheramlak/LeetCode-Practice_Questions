@@ -84,6 +84,7 @@ Started on Feb 26, 2024
 ## Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Matrix
 |  |
@@ -93,4 +94,8 @@ Started on Feb 26, 2024
 |  |
 | ------- |
 | [0869-similar-string-groups](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0869-similar-string-groups) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
