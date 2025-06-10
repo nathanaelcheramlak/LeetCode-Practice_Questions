@@ -10,6 +10,7 @@ Started on Feb 26, 2024
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0041-first-missing-positive) |
 | [0149-max-points-on-a-line](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0149-max-points-on-a-line) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0690-employee-importance](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0690-employee-importance) |
@@ -17,6 +18,7 @@ Started on Feb 26, 2024
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0041-first-missing-positive) |
 | [0149-max-points-on-a-line](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0149-max-points-on-a-line) |
 | [0690-employee-importance](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0690-employee-importance) |
 | [0869-similar-string-groups](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0869-similar-string-groups) |
