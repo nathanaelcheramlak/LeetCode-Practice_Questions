@@ -25,10 +25,12 @@ Started on Feb 26, 2024
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0100-same-tree) |
 | [0690-employee-importance](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0690-employee-importance) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0100-same-tree) |
 | [0547-number-of-provinces](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0547-number-of-provinces) |
 | [0690-employee-importance](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0690-employee-importance) |
 | [0744-network-delay-time](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0744-network-delay-time) |
@@ -36,6 +38,7 @@ Started on Feb 26, 2024
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0100-same-tree) |
 | [0547-number-of-provinces](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0547-number-of-provinces) |
 | [0690-employee-importance](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0690-employee-importance) |
 | [0744-network-delay-time](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0744-network-delay-time) |
@@ -100,4 +103,8 @@ Started on Feb 26, 2024
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0191-number-of-1-bits) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
