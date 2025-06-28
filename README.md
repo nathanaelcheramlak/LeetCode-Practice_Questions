@@ -12,6 +12,7 @@ Started on Feb 26, 2024
 | ------- |
 | [0041-first-missing-positive](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0041-first-missing-positive) |
 | [0149-max-points-on-a-line](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0149-max-points-on-a-line) |
+| [0169-majority-element](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0690-employee-importance](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0690-employee-importance) |
 | [0869-similar-string-groups](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0869-similar-string-groups) |
@@ -21,6 +22,7 @@ Started on Feb 26, 2024
 | ------- |
 | [0041-first-missing-positive](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0041-first-missing-positive) |
 | [0149-max-points-on-a-line](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0149-max-points-on-a-line) |
+| [0169-majority-element](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0169-majority-element) |
 | [0690-employee-importance](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0690-employee-importance) |
 | [0869-similar-string-groups](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0869-similar-string-groups) |
 | [1256-rank-transform-of-an-array](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/1256-rank-transform-of-an-array) |
@@ -91,6 +93,7 @@ Started on Feb 26, 2024
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Matrix
@@ -112,5 +115,10 @@ Started on Feb 26, 2024
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0169-majority-element) |
 | [1256-rank-transform-of-an-array](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/1256-rank-transform-of-an-array) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
