@@ -103,6 +103,7 @@ Started on Feb 26, 2024
 ## String
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0657-robot-return-to-origin) |
 | [0869-similar-string-groups](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0869-similar-string-groups) |
 ## Bit Manipulation
 |  |
@@ -121,4 +122,8 @@ Started on Feb 26, 2024
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [0657-robot-return-to-origin](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0657-robot-return-to-origin) |
 <!---LeetCode Topics End-->
