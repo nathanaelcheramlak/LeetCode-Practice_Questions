@@ -72,6 +72,7 @@ Started on Feb 26, 2024
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0149-max-points-on-a-line) |
 | [1362-airplane-seat-assignment-probability](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/1362-airplane-seat-assignment-probability) |
+| [1448-maximum-69-number](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/1448-maximum-69-number) |
 ## Geometry
 |  |
 | ------- |
@@ -141,6 +142,7 @@ Started on Feb 26, 2024
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0316-remove-duplicate-letters) |
+| [1448-maximum-69-number](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/1448-maximum-69-number) |
 ## Monotonic Stack
 |  |
 | ------- |
