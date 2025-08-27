@@ -17,6 +17,7 @@ Started on Feb 26, 2024
 | [0240-search-a-2d-matrix-ii](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0690-employee-importance](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0690-employee-importance) |
 | [0869-similar-string-groups](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0869-similar-string-groups) |
+| [0917-boats-to-save-people](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0917-boats-to-save-people) |
 | [1256-rank-transform-of-an-array](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/1256-rank-transform-of-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Hash Table
@@ -123,6 +124,7 @@ Started on Feb 26, 2024
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0169-majority-element) |
+| [0917-boats-to-save-people](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0917-boats-to-save-people) |
 | [1256-rank-transform-of-an-array](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/1256-rank-transform-of-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Counting
@@ -145,6 +147,7 @@ Started on Feb 26, 2024
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0316-remove-duplicate-letters) |
+| [0917-boats-to-save-people](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0917-boats-to-save-people) |
 | [1448-maximum-69-number](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/1448-maximum-69-number) |
 ## Monotonic Stack
 |  |
@@ -153,5 +156,6 @@ Started on Feb 26, 2024
 ## Two Pointers
 |  |
 | ------- |
+| [0917-boats-to-save-people](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0917-boats-to-save-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 <!---LeetCode Topics End-->
