@@ -18,6 +18,7 @@ Started on Feb 26, 2024
 | [0690-employee-importance](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0690-employee-importance) |
 | [0869-similar-string-groups](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0869-similar-string-groups) |
 | [1256-rank-transform-of-an-array](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/1256-rank-transform-of-an-array) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,6 +29,7 @@ Started on Feb 26, 2024
 | [0690-employee-importance](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0690-employee-importance) |
 | [0869-similar-string-groups](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0869-similar-string-groups) |
 | [1256-rank-transform-of-an-array](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/1256-rank-transform-of-an-array) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Tree
 |  |
 | ------- |
@@ -122,6 +124,7 @@ Started on Feb 26, 2024
 | ------- |
 | [0169-majority-element](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0169-majority-element) |
 | [1256-rank-transform-of-an-array](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/1256-rank-transform-of-an-array) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Counting
 |  |
 | ------- |
@@ -147,4 +150,8 @@ Started on Feb 26, 2024
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0316-remove-duplicate-letters) |
+## Two Pointers
+|  |
+| ------- |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 <!---LeetCode Topics End-->
