@@ -20,6 +20,7 @@ Started on Feb 26, 2024
 | [0917-boats-to-save-people](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0917-boats-to-save-people) |
 | [1256-rank-transform-of-an-array](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/1256-rank-transform-of-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -77,10 +78,12 @@ Started on Feb 26, 2024
 | [0149-max-points-on-a-line](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0149-max-points-on-a-line) |
 | [1362-airplane-seat-assignment-probability](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/1362-airplane-seat-assignment-probability) |
 | [1448-maximum-69-number](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/1448-maximum-69-number) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 ## Geometry
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0149-max-points-on-a-line) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -129,6 +132,7 @@ Started on Feb 26, 2024
 | [0917-boats-to-save-people](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0917-boats-to-save-people) |
 | [1256-rank-transform-of-an-array](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/1256-rank-transform-of-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 ## Counting
 |  |
 | ------- |
@@ -161,4 +165,8 @@ Started on Feb 26, 2024
 | ------- |
 | [0917-boats-to-save-people](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0917-boats-to-save-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+## Enumeration
+|  |
+| ------- |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 <!---LeetCode Topics End-->
