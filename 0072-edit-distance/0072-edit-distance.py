@@ -13,7 +13,7 @@ class Solution:
             if word1[i] == word2[j]:
                 cache[(i, j)] = edit(i + 1, j + 1)
             else:
-                cache[(i, j)] = min(1 + edit(i, j + 1), 1 + edit(i + 1, j), 1 + edit(i + 1, j + 1))
+                cache[(i, j)] = min(edit(i, j + 1), edit(i + 1, j), edit(i + 1, j + 1)) + 1
             
             return cache[(i, j)]
         
