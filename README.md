@@ -11,6 +11,7 @@ Started on Feb 26, 2024
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0120-triangle](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0120-triangle) |
 | [0149-max-points-on-a-line](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0169-majority-element) |
@@ -27,6 +28,7 @@ Started on Feb 26, 2024
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0149-max-points-on-a-line](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0219-contains-duplicate-ii) |
@@ -112,6 +114,7 @@ Started on Feb 26, 2024
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0240-search-a-2d-matrix-ii) |
 ## String
 |  |
