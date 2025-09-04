@@ -11,6 +11,7 @@ Started on Feb 26, 2024
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0041-first-missing-positive) |
+| [0120-triangle](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0120-triangle) |
 | [0149-max-points-on-a-line](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0219-contains-duplicate-ii) |
@@ -87,6 +88,7 @@ Started on Feb 26, 2024
 ## Dynamic Programming
 |  |
 | ------- |
+| [0120-triangle](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0120-triangle) |
 | [1362-airplane-seat-assignment-probability](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/1362-airplane-seat-assignment-probability) |
 ## Brainteaser
 |  |
