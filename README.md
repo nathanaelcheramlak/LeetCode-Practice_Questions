@@ -88,6 +88,7 @@ Started on Feb 26, 2024
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0120-triangle) |
 | [1362-airplane-seat-assignment-probability](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/1362-airplane-seat-assignment-probability) |
 ## Brainteaser
@@ -116,6 +117,7 @@ Started on Feb 26, 2024
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0072-edit-distance](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0072-edit-distance) |
 | [0316-remove-duplicate-letters](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0316-remove-duplicate-letters) |
 | [0657-robot-return-to-origin](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0657-robot-return-to-origin) |
 | [0869-similar-string-groups](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0869-similar-string-groups) |
