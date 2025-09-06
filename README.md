@@ -23,6 +23,7 @@ Started on Feb 26, 2024
 | [1256-rank-transform-of-an-array](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/1256-rank-transform-of-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Hash Table
 |  |
 | ------- |
@@ -82,6 +83,7 @@ Started on Feb 26, 2024
 | [1362-airplane-seat-assignment-probability](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/1362-airplane-seat-assignment-probability) |
 | [1448-maximum-69-number](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/1448-maximum-69-number) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Geometry
 |  |
 | ------- |
@@ -128,6 +130,7 @@ Started on Feb 26, 2024
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0191-number-of-1-bits) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Binary Tree
 |  |
 | ------- |
