@@ -11,6 +11,7 @@ Started on Feb 26, 2024
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0120-triangle](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0120-triangle) |
 | [0149-max-points-on-a-line](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0149-max-points-on-a-line) |
@@ -31,6 +32,7 @@ Started on Feb 26, 2024
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0149-max-points-on-a-line](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0169-majority-element) |
@@ -125,6 +127,7 @@ Started on Feb 26, 2024
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0072-edit-distance) |
 | [0165-compare-version-numbers](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0165-compare-version-numbers) |
 | [0316-remove-duplicate-letters](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0316-remove-duplicate-letters) |
@@ -142,6 +145,7 @@ Started on Feb 26, 2024
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0169-majority-element) |
 | [0917-boats-to-save-people](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0917-boats-to-save-people) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
