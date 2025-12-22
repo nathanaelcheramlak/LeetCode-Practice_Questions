@@ -10,6 +10,7 @@ Started on Feb 26, 2024
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0014-longest-common-prefix) |
 | [0041-first-missing-positive](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0073-set-matrix-zeroes) |
@@ -127,6 +128,7 @@ Started on Feb 26, 2024
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0072-edit-distance) |
 | [0165-compare-version-numbers](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0165-compare-version-numbers) |
@@ -190,4 +192,8 @@ Started on Feb 26, 2024
 |  |
 | ------- |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
