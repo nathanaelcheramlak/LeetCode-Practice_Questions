@@ -20,6 +20,7 @@ Started on Feb 26, 2024
 | [0219-contains-duplicate-ii](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0611-valid-triangle-number](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0611-valid-triangle-number) |
 | [0690-employee-importance](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0690-employee-importance) |
 | [0869-similar-string-groups](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0869-similar-string-groups) |
 | [0917-boats-to-save-people](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0917-boats-to-save-people) |
@@ -116,6 +117,7 @@ Started on Feb 26, 2024
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0611-valid-triangle-number](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0611-valid-triangle-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -153,6 +155,7 @@ Started on Feb 26, 2024
 | ------- |
 | [0049-group-anagrams](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0169-majority-element) |
+| [0611-valid-triangle-number](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0611-valid-triangle-number) |
 | [0917-boats-to-save-people](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0917-boats-to-save-people) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1256-rank-transform-of-an-array](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/1256-rank-transform-of-an-array) |
@@ -179,6 +182,7 @@ Started on Feb 26, 2024
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0316-remove-duplicate-letters) |
+| [0611-valid-triangle-number](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0611-valid-triangle-number) |
 | [0917-boats-to-save-people](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0917-boats-to-save-people) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1448-maximum-69-number](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/1448-maximum-69-number) |
@@ -190,6 +194,7 @@ Started on Feb 26, 2024
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0165-compare-version-numbers) |
+| [0611-valid-triangle-number](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0611-valid-triangle-number) |
 | [0917-boats-to-save-people](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0917-boats-to-save-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Enumeration
