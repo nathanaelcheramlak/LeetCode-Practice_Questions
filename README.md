@@ -27,6 +27,7 @@ Started on Feb 26, 2024
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1256-rank-transform-of-an-array](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/1256-rank-transform-of-an-array) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -118,6 +119,7 @@ Started on Feb 26, 2024
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0611-valid-triangle-number](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0611-valid-triangle-number) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -196,6 +198,7 @@ Started on Feb 26, 2024
 | [0165-compare-version-numbers](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0165-compare-version-numbers) |
 | [0611-valid-triangle-number](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0611-valid-triangle-number) |
 | [0917-boats-to-save-people](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/0917-boats-to-save-people) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/nathanaelcheramlak/LeetCode-Practice_Questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Enumeration
 |  |
